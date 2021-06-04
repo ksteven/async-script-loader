@@ -1,5 +1,5 @@
 {
-  "name": "@beyonk/async-script-loader",
+  "name": "@ksteven/async-script-loader",
   "version": "2.0.0",
   "description": "Loads scripts cleanly and asynchronously in SPAs",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "js",
     "client"
   ],
-  "author": "Antony Jones",
+  "author": "Tsync",
   "license": "MIT",
   "devDependencies": {
     "esm": "^3.2.25",
